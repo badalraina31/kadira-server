@@ -36,7 +36,7 @@
     "goo.gl": "0.x.x",
     "html-to-text": "1.x.x",
     "librato-node": "4.x.x",
-    "lodash": "3.x.x",
+    "lodash": "4.x.x",
     "lokka": "1.x.x",
     "lokka-transport-http-auth": "1.x.x",
     "moment": "2.x.x",
