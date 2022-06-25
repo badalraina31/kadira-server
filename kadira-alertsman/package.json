@@ -42,7 +42,7 @@
     "moment": "2.x.x",
     "mongo-oplog": "1.x.x",
     "mongodb": "2.x.x",
-    "node-fetch": "1.x.x",
+    "node-fetch": "2.x.x",
     "nodemailer": "1.x.x",
     "nodemailer-smtp-transport": "1.x.x",
     "promise-retry": "0.2.x"
